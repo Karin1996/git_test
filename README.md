@@ -1,0 +1,1 @@
+This is the first try on using git using the terminal
